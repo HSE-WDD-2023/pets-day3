@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <div class="card mx-auto mt-4" style="width: 22rem;">
+        <img src="static/error.png" class="card-img-top" alt="grumpy cat">
+        <div class="card-body">
+        <h5 class="card-title text-danger display-5 text-center fw-bold">Sorry!</h5>
+        <p class="card-text">{{ msg }}</p>
+        <a href="/register" class="btn btn-dark">Try Again</a>
+        </div>
+    </div>
+{% endblock %}

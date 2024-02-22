@@ -1,0 +1,48 @@
+[
+  {
+    "owner": "Mike",
+    "pet": "Ruby",
+    "type": "dog",
+    "services": [
+      "grooming",
+      "training"
+    ]
+  },
+  {
+    "owner": "Kim",
+    "pet": "Mittens",
+    "type": "cat",
+    "services": [
+      "boarding",
+      "check-ups"
+    ]
+  },
+  {
+    "owner": "Jessica",
+    "pet": "Otis",
+    "type": "dog",
+    "services": [
+      "grooming",
+      "boarding",
+      "training"
+    ]
+  },
+  {
+    "owner": "Jack",
+    "pet": "Thunder",
+    "type": "reptile",
+    "services": [
+      "boarding",
+      "check-ups"
+    ]
+  },
+  {
+    "owner": "Tom",
+    "pet": "Zuko",
+    "type": "rabbit",
+    "services": [
+      "grooming",
+      "agility"
+    ]
+  }
+]
